@@ -25,6 +25,9 @@ This repository contains the design files for a voltage regulator circuit and a 
 
 ## 3D PCB Layout
 **Top Layer**
+
 ![PCB_toplayer](https://github.com/user-attachments/assets/ae5311ae-1363-4102-bbf0-2f21847e41d2)
+
 **Bottom Layer**
+
 ![PCB_bottomlayer](https://github.com/user-attachments/assets/9ff2e4e3-2e43-40f1-987a-7c6234845427)
