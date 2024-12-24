@@ -1,0 +1,65 @@
+|RECORD=BOM|VERSION=6|FILENAME=E:\Altium_practice\smartmcu\AltiumProject\smartmcu\smartmcu.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=03.09.2024|TIME=12:27:45|CURRENCY=USD|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=Line #=54!Comment=100!Description=100!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=54!Comment=-1!Description=-1!Designator=80!Quantity=67!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|FLATVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122|CONSOLIDATEDVIEW=Line #=-1!Comment=-1!Description=-1!Designator=-1!Quantity=-1!Manufacturer 1=102!Manufacturer Part Number 1=169!Manufacturer Lifecycle 1=147!Supplier 1=75!Supplier Part Number 1=142!Supplier Unit Price 1=127!Supplier Subtotal 1=122
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|PARTSOURCES=|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=ExternalCheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Cap|DESIGNITEMID=Cap|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Capacitor|USERCOMMENTS=tantalum cap|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=100uF,Capacitor,"tantalum cap"|COMPONENTPARAMETERS="Comment=tantalum cap","Component Kind=Standard",Description=Capacitor,Footprint=RAD-0.3,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Cap","PackageDescription=Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing",PackageReference=RAD-0.3,PCB3D=,"Pin Info=",Published=8-Jun-2000,"Publisher=Altium Limited","Signal Integrity=Cap",Simulation=CAP,Value=100uF|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Cap|DESIGNITEMID=Cap|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Capacitor|USERCOMMENTS=tantalum cap|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=10uF,Capacitor,"tantalum cap"|COMPONENTPARAMETERS="Comment=tantalum cap","Component Kind=Standard",Description=Capacitor,Footprint=RAD-0.3,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Cap","PackageDescription=Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing",PackageReference=RAD-0.3,PCB3D=,"Pin Info=",Published=8-Jun-2000,"Publisher=Altium Limited","Signal Integrity=Cap",Simulation=CAP,Value=10uF|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Cap|DESIGNITEMID=Cap|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Capacitor|USERCOMMENTS=Cap|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=100nF,Cap,Capacitor|COMPONENTPARAMETERS=Comment=Cap,"Component Kind=Standard",Description=Capacitor,Footprint=RAD-0.3,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Cap","PackageDescription=Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing",PackageReference=RAD-0.3,PCB3D=,"Pin Info=",Published=8-Jun-2000,"Publisher=Altium Limited","Signal Integrity=Cap",Simulation=CAP,Value=100nF|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Connectors.IntLib\Header 2H|DESIGNITEMID=Header 2H|ITEMSOURCE=Miscellaneous Connectors.IntLib|STATUS=Unknown|DESCRIPTION=Header, 2-Pin, Right Angle|USERCOMMENTS=Battery Connection|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="Battery Connection","Header, 2-Pin, Right Angle"|COMPONENTPARAMETERS="Comment=Battery Connection","Component Kind=Standard","Description=Header, 2-Pin, Right Angle",Footprint=HDR1X2H,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Connectors.IntLib","Library Reference=Header 2H",PCB3D=,"Pin Info=","Publisher=Altium Limited","Signal Integrity=Connector",Simulation=,Voltage=9V|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=mylib.IntLib\lm1117|DESIGNITEMID=lm1117|ITEMSOURCE=mylib.IntLib|STATUS=Unknown|DESCRIPTION=The LM1117 is a low dropout voltage regulator with a 
+dropout of 1.2 V at 800 mA of load current.
+ The LM1117 is available in an adjustable version, 
+which can set the output voltage from 1.25 V to 13.8 V 
+with only two external resistors. In addition, the device 
+is available in five fixed voltages, 1.8 V, 2.5 V, 3.3 V, 
+and 5 V.
+ The LM1117 offers current limiting and thermal 
+shutdown. The circuit includes a Zener trimmed band
+gap reference to assure output voltage accuracy to 
+within ±1%.
+ A minimum of 10-µF tantalum capacitor is required 
+at the output to improve the transient response and 
+stability.|USERCOMMENTS=Low-Dropout Linear Regulator|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="Low-Dropout Linear Regulator","The LM1117 is a low dropout voltage regulator with a 
+dropout of 1.2 V at 800 mA of load current.
+ The LM1117 is available in an adjustable version, 
+which can set the output voltage from 1.25 V to 13.8 V 
+with only two external resistors. In addition, the device 
+is available in five fixed voltages, 1.8 V, 2.5 V, 3.3 V, 
+and 5 V.
+ The LM1117 offers current limiting and thermal 
+shutdown. The circuit includes a Zener trimmed band
+gap reference to assure output voltage accuracy to 
+within ±1%.
+ A minimum of 10-µF tantalum capacitor is required 
+at the output to improve the transient response and 
+stability."|COMPONENTPARAMETERS="Comment=Low-Dropout Linear Regulator","Component Kind=Standard",ComponentLink1Description=datasheet,ComponentLink1URL=https://www.ti.com/lit/ds/symlink/lm1117.pdf,"Description=The LM1117 is a low dropout voltage regulator with a 
+dropout of 1.2 V at 800 mA of load current.
+ The LM1117 is available in an adjustable version, 
+which can set the output voltage from 1.25 V to 13.8 V 
+with only two external resistors. In addition, the device 
+is available in five fixed voltages, 1.8 V, 2.5 V, 3.3 V, 
+and 5 V.
+ The LM1117 offers current limiting and thermal 
+shutdown. The circuit includes a Zener trimmed band
+gap reference to assure output voltage accuracy to 
+within ±1%.
+ A minimum of 10-µF tantalum capacitor is required 
+at the output to improve the transient response and 
+stability.","Footprint=4-Pin SOT","Ibis Model=","Library Name=mylib.IntLib","Library Reference=lm1117","output voltage=3.3V",PCB3D=,"Pin Info=","Signal Integrity=",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
